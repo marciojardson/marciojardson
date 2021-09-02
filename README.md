@@ -1,4 +1,4 @@
-# Marcio Jardson
+# Marcio Jardson [![Linkdin](imgs/linkedin-16.png?raw=true)](https://www.linkedin.com/in/marciojardson/)
  Analista de TI da DATAPREV, formado em Ciências da Computação na UFCG(Universidade Federal da Paraíba).
 
 
